@@ -54,7 +54,7 @@ project-root/
 └── .github/
     └── workflows/
         └── php.yml     # GitHub Actions CI/CD pipeline configuration
-
+```
 
 # Getting Started
 
