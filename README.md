@@ -54,3 +54,23 @@ project-root/
 └── .github/
     └── workflows/
         └── php.yml     # GitHub Actions CI/CD pipeline configuration
+
+
+# Getting Started
+
+## Prerequisites
+
+- Docker & Docker Compose installed
+- Composer installed for managing PHP dependencies
+- AWS Elastic Beanstalk CLI installed for deployment
+- A Slack webhook URL for notifications (optional)
+
+## Local Development
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/php-cicd-project.git
+cd php-cicd-project
+```
+
